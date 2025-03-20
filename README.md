@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Devesh Ghai</h1>  
 <h3 align="center">Aspiring Data Analyst | Transforming Raw Data into Actionable Insights</h3>  
 
-<img align="right" alt="Data Analytics" width="400" src="https://datascientest.com/en/files/2024/03/Citizen_Data_Scientist-1024x585-1.jpg">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Devesh-Ghai&label=Profile%20views&color=0e75b6&style=flat" alt="Devesh-Ghai" /> </p>  
 
