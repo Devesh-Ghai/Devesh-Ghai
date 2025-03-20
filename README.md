@@ -61,9 +61,6 @@ Exploring **Power BI, SQL, and Machine Learning**
 ## 📊 GitHub Activity  
 ![Devesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devesh-Ghai&show_icons=true&theme=radical&hide_border=true)  
 
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Devesh-Ghai&theme=radical&no-frame=true&margin-w=15)  
-
 ---
 
 ### ⚡ Fun Fact  
