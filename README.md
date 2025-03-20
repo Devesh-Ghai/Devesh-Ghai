@@ -1,6 +1,3 @@
-Here’s a **highly polished and engaging** GitHub README for your profile, incorporating the best elements from the references while keeping it **unique and tailored to you**:  
-
----
 
 <h1 align="center">Hi 👋, I'm Devesh Ghai</h1>  
 <h3 align="center">Aspiring Data Analyst | Transforming Raw Data into Actionable Insights</h3>  
@@ -9,17 +6,17 @@ Here’s a **highly polished and engaging** GitHub README for your profile, inco
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Devesh-Ghai&label=Profile%20views&color=0e75b6&style=flat" alt="Devesh-Ghai" /> </p>  
 
-## 🚀 About Me  
-🔍 Passionate about **data analytics, visualization, and business intelligence**  
-📊 Turning **complex datasets into compelling stories** through **data-driven decision-making**  
-🔬 Exploring **machine learning** and **predictive analytics** to unlock deeper insights  
+## About Me  
+Passionate about **data analytics, visualization, and business intelligence**  
+Turning **complex datasets into compelling stories** through **data-driven decision-making**  
+Exploring **machine learning** and **predictive analytics** to unlock deeper insights  
 
 ---
 
-## 🌱 Current Focus  
-🎯 **Mastering Data Analytics & Visualization**  
-💡 Building projects that **analyze trends, detect patterns, and drive business decisions**  
-📈 Exploring **Power BI, SQL, and Machine Learning**  
+## Current Focus  
+**Mastering Data Analytics & Visualization**  
+Building projects that **analyze trends, detect patterns, and drive business decisions**  
+Exploring **Power BI, SQL, and Machine Learning**  
 
 ---
 
@@ -49,17 +46,16 @@ Here’s a **highly polished and engaging** GitHub README for your profile, inco
 
 ---
 
-## 🏗️ Projects & Work  
+## Projects & Work  
 🔹 **KPI Dashboard for Airlines** – Built a **Streamlit dashboard** for tracking **operational & financial metrics**  
 🔹 **Job Market Demand Analysis** – Scraped job postings, analyzed demand trends, and visualized insights in **Power BI**  
 🔹 **Predictive Modeling** – Developed **Random Forest models** to optimize predictions using **GridSearchCV**  
 
 ---
 
-## 🌍 Let's Connect!  
-📩 **Email:** deveshghai01@gmail.com  
-💼 **LinkedIn:** *[Insert Your Link]*  
-📌 **Portfolio (Coming Soon! 🚀)**  
+## Let's Connect!  
+**Email:** deveshghai01@gmail.com  
+**LinkedIn:** *www.linkedin.com/in/devesh-ghai*  
 
 ---
 
@@ -74,11 +70,3 @@ Here’s a **highly polished and engaging** GitHub README for your profile, inco
 ### ⚡ Fun Fact  
 *"Without data, you're just another person with an opinion."* – W. Edwards Deming  
 
----
-
-This version is:  
-✅ **Professional yet engaging**  
-✅ **Well-structured and visually appealing**  
-✅ **Showcases your skills & projects effectively**  
-
-Let me know if you want any refinements! 🚀
